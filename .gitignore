@@ -1,0 +1,9 @@
+/node_modules
+/public/storage
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+phpunit-5.7.2.phar
+start_Advertising.patch
